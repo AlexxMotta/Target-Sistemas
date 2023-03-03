@@ -1,3 +1,6 @@
+// Cada problema tem uma solução, como eu não poderia usar um metodo nativo do JS pra resolver fiz na mão
+// com C mesmo, C é melhor pra manipular os dados assim.
+
 #include <stdio.h>
 int i =0;
 void imprimeInverRec(char *s){
