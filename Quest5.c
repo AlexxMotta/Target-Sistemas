@@ -1,10 +1,3 @@
-
-
-
-
-
-
-
 #include <stdio.h>
 int i =0;
 void imprimeInverRec(char *s){
@@ -19,7 +12,6 @@ void imprimeInverRec(char *s){
 int main()
 {
     imprimeInverRec("Junior");
-
     return 0;
 }
 
